@@ -1,0 +1,17 @@
+1. a) No, I don't think bar chart is a effective way to visualize this data.
+      It is because that bar chart is effective when showing changes over time for particular categories,
+      so when we're only looking at one specific time, it doesn't make any meaningful comparison.
+   b) I chose to use bar chart to demonstrate the idea I mentioned in the previous answer.
+      This chart is able to show the changes in percentages throughtout the year,
+      and we can clearly find a upward trend in both categories.
+
+2. This dataset only present a percentage of samples. The first bias that I can think of is that
+   this dataset may not be representative simply because it is only a very small proportion of the
+   total population. Also, it is specified that the people selected are those between 25 to 29.
+   Some may be still pursuing a higher degree, so the bias in this case is the number could be conservative.
+
+3. The dataset could be misused toward showing that the percentage of female earning at least 
+   an bachelor's degree is higher than male's percentage. This can be interpret as females 
+   are smarter than males, which is definitely an inaccurate statement. Or it could be showing
+   that certain ethnic group have consistently lower percentage in completing at least high school.
+   Therefore, they are dumber or less diligent than other groups, which is definitely another bad statement.

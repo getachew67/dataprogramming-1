@@ -1,0 +1,30 @@
+Name: Michael Shieh
+CSE 160
+Homework 6
+
+For each problem that requires a written answer, write (or copy-and-paste)
+your answers in this file.  When you are done, you should have replaced all
+the ellipses (the three dots) with your answers.
+
+Answer to Problem 7:
+
+Since the p-value from the simulations are 0.0427, which is smaller than 0.05,
+I reject the null hypothesis and say that the 2009 iranian election could be fraudulent.
+
+Answer to Problem 8:
+
+2009 Iranian election MSE: 0.0007395833333333335
+Quantity of MSEs larger than or equal to the 2009 Iranian election MSE: 427
+Quantity of MSEs smaller than the 2009 Iranian  election MSE: 9573
+2009 Iranian election null hypothesis rejection level p: 0.0427
+
+2008 United States election MSE: 0.0001410025876058068
+Quantity of MSEs larger than or equal to the 2008 United States election MSE: 5225
+Quantity of MSEs smaller than the 2008 United States  election MSE: 4775
+2008 United States election null hypothesis rejection level p: 0.5225
+
+Collaboration:
+
+...
+
+
